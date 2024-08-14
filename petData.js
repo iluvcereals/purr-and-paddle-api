@@ -4,7 +4,7 @@ const pets = [
   {
     id: 1,
     type: "dog",
-    img: "src/assets/dog1.jpg",
+    img: "/assets/dog1.jpg",
     breed: "Labrador Retriever",
     age: "senior",
     gender: "male",
@@ -16,7 +16,7 @@ const pets = [
   {
     id: 2,
     type: "dog",
-    img: "src/assets/dog2.jpg",
+    img: "/assets/dog2.jpg",
     breed: "German Shepherd",
     age: "adult",
     gender: "female",
@@ -29,7 +29,7 @@ const pets = [
   {
     id: 3,
     type: "dog",
-    img: "src/assets/dog3.jpg",
+    img: "/assets/dog3.jpg",
     breed: "Beagle",
     age: "young",
     gender: "male",
@@ -42,7 +42,7 @@ const pets = [
   {
     id: 4,
     type: "cat",
-    img: "src/assets/cat1.jpg",
+    img: "/assets/cat1.jpg",
     breed: "Siamese",
     age: "young",
     gender: "female",
@@ -55,7 +55,7 @@ const pets = [
   {
     id: 5,
     type: "cat",
-    img: "src/assets/cat2.jpg",
+    img: "/assets/cat2.jpg",
     breed: "Persian",
     age: "young",
     gender: "male",
@@ -68,7 +68,7 @@ const pets = [
   {
     id: 6,
     type: "cat",
-    img: "src/assets/cat3.jpg",
+    img: "/assets/cat3.jpg",
     breed: "Maine Coon",
     age: "young",
     gender: "female",

@@ -38,8 +38,8 @@ const addPet = (req, res) => {
     description,
   } = req.body;
 
-  const defaultDog = "src/assets/default-dog.jpeg";
-  const defaultCat = "src/assets/default-cat.jpg";
+  const defaultDog = "/assets/default-dog.jpeg";
+  const defaultCat = "/assets/default-cat.jpg";
   const img = type === "dog" ? defaultDog : defaultCat;
   const newPet = {
     id: pets.length + 1,
