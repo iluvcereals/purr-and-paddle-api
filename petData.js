@@ -8,7 +8,7 @@ const pets = [
     breed: "Labrador Retriever",
     age: "senior",
     gender: "male",
-    compatibility: "dog",
+    compatibility: "dogs",
     ownerName: "Lionel Messi",
     ownerEmail: "lm10@gmail.com",
     description: "I love my pet so much, she is very friendly.",
@@ -20,7 +20,7 @@ const pets = [
     breed: "German Shepherd",
     age: "adult",
     gender: "female",
-    compatibility: "cat",
+    compatibility: "cats",
     ownerName: "Virginia Woolf",
     ownerEmail: "virginia.woolf@gmail.com",
     description:
@@ -33,7 +33,7 @@ const pets = [
     breed: "Beagle",
     age: "young",
     gender: "male",
-    compatibility: "child",
+    compatibility: "children",
     ownerName: "Mark Twain",
     ownerEmail: "mark.twain@gmail.com",
     description:
@@ -46,7 +46,7 @@ const pets = [
     breed: "Siamese",
     age: "young",
     gender: "female",
-    compatibility: "child",
+    compatibility: "children",
     ownerName: "Gabriel García Márquez",
     ownerEmail: "gabriel.garcia@gmail.com",
     description:
@@ -59,7 +59,7 @@ const pets = [
     breed: "Persian",
     age: "young",
     gender: "male",
-    compatibility: "cat",
+    compatibility: "cats",
     ownerName: "Jane Austen",
     ownerEmail: "jane.austen@gmail.com",
     description:
@@ -72,7 +72,7 @@ const pets = [
     breed: "Maine Coon",
     age: "young",
     gender: "female",
-    compatibility: "cat",
+    compatibility: "cats",
     ownerName: "Albert Einstein",
     ownerEmail: "albert.einstein@gmail.com",
     description:
